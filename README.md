@@ -10,3 +10,7 @@ This library expects the following Python modules to be installed:
 
 - `pip install -r requirements.txt`
 - nltk's brown corpora, stopwords and punkt tokenizers
+
+To run in the background:
+
+`nohup python service.py &`
